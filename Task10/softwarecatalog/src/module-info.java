@@ -1,0 +1,3 @@
+module softwarecatalog {
+    exports catalog;
+}
